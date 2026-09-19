@@ -4,7 +4,7 @@ Táto kapitola pokrýva § 27 až § 64 zákona č. 199/2004 Z. z., Colný záko
 
 ### § 27
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Overovanie údajov colného vyhlásenia a vyhlásenia o spätnom vývoze
 >
 > (1) Colný úrad je na účel zistenia skutkového stavu veci oprávnený overovať aj podklady a skutočnosti, ktoré vyšli najavo inak ako z podnetu deklaranta a vykonať aj iné ako navrhnuté dôkazy.
@@ -17,7 +17,7 @@ Ustanovenie zakotvuje vyšetrovaciu (oficiálnu) zásadu colného konania a jej 
 
 ### § 28
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zabezpečenie totožnosti tovaru
 >
 > Ak je potrebné zabezpečiť totožnosť tovaru, deklarant je povinný na vlastné náklady vykonať potrebné opatrenia, najmä zabezpečiť priestory, dopravné prostriedky a kontajnery, tak, aby bolo možné colnú uzáveru priložiť. Deklarant je rovnako povinný bezplatne poskytnúť vzor, vyobrazenie alebo opis tovaru, ak sú potrebné na zabezpečenie totožnosti tovaru.
@@ -26,7 +26,7 @@ Ustanovenie konkretizuje inštitút zabezpečenia totožnosti tovaru, ktorý col
 
 ### § 29
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Príslušnosť na predloženie tovaru a podanie colného vyhlásenia
 >
 > (1) Tovar sa predkladá a colné vyhlásenie sa podáva vnútrozemskej pobočke colného úradu,41) ak odsek 3 neustanovuje inak, okrem
@@ -55,7 +55,7 @@ Ustanovenie určuje vecnú a miestnu príslušnosť pri predkladaní tovaru a po
 
 ### § 32
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prijatie písomného colného vyhlásenia
 >
 > § 32
@@ -68,14 +68,14 @@ Ustanovenie otvára pododdiel venovaný prijatiu písomného colného vyhláseni
 
 ### § 33
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Podanie colného vyhlásenia v listinnej podobe osvedčí príslušník finančnej správy svojím podpisom. Na colnom vyhlásení v listinnej podobe vyznačí príslušník finančnej správy dátum jeho prijatia.
 
 Ustanovenie upravuje formálny akt osvedčenia podania listinného colného vyhlásenia. Zatiaľ čo pri elektronickom podaní sa okamih a fakt podania preukazuje záznamom v informačnom systéme, pri listinnej podobe je nevyhnutné, aby konkrétna úradná osoba — príslušník finančnej správy — podanie fyzicky osvedčila svojím podpisom a vyznačila dátum jeho prijatia. Tento údaj má zásadný právny význam, pretože od okamihu prijatia colného vyhlásenia sa odvíjajú viaceré procesné lehoty a účinky (napríklad vznik colného dlhu, určenie rozhodného dňa pre výpočet cla, začiatok plynutia lehôt na doplnenie podkladov), a preto musí byť jednoznačne a preukázateľne zaznamenaný.
 
 ### § 34
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Colný úrad odmietne prijatie colného vyhlásenia, ak
 >
 > a) je colné vyhlásenie podané na vecne nepríslušnej pobočke colného úradu alebo
@@ -88,7 +88,7 @@ Ustanovenie rozlišuje dva režimy odmietnutia prijatia colného vyhlásenia pod
 
 ### § 35
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak sa platnosť colného vyhlásenia pred prepustením tovaru zruší, colné konanie sa považuje za zastavené.
 >
 > (2) Ak sa platnosť už prijatého colného vyhlásenia v listinnej podobe na žiadosť deklaranta zruší,47) colný úrad vyznačí túto skutočnosť na colnom vyhlásení.
@@ -97,14 +97,14 @@ Ustanovenie upravuje procesné dôsledky zrušenia platnosti colného vyhláseni
 
 ### § 35a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ustanovenia § 32 ods. 1 a § 33 až 35 sa použijú primerane aj na vyhlásenie o spätnom vývoze.
 
 Ustanovenie je typickou legislatívno-technickou normou odkazovacej povahy, ktorá rozširuje pôsobnosť predchádzajúcich ustanovení o jazykovom režime (§ 32 ods. 1), osvedčení podania (§ 33), odmietnutí prijatia (§ 34) a zrušení platnosti (§ 35) aj na vyhlásenie o spätnom vývoze. Spätný vývoz je procesne aj obsahovo blízky bežnému colnému vyhláseniu — ide o úkon, ktorým sa tovar, ktorý predtým nebol prepustený do voľného obehu, opúšťa colné územie Únie bez toho, aby sa naň uplatnil colný režim vývoz — a zákonodarca preto namiesto duplicitnej úpravy zvolil odkaz na primerané použitie už existujúcich pravidiel. Slovo "primerane" znamená, že jednotlivé ustanovenia sa aplikujú s prihliadnutím na osobitosti vyhlásenia o spätnom vývoze tam, kde sa jeho povaha odlišuje od bežného colného vyhlásenia.
 
 ### § 36
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rozhodnutie v colnom konaní
 >
 > (1) Písomné vyhotovenie rozhodnutia v colnom konaní obsahuje
@@ -143,7 +143,7 @@ Ustanovenie je kľúčovým procesným pilierom colného konania, pretože kompl
 
 ### § 36a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zničenie tovaru v colnom režime aktívny zušľachťovací styk
 >
 > (1) Ak je predmetom zničenia odpad,50) žiadateľ o vydanie povolenia na použitie colného režimu aktívny zušľachťovací styk je povinný k žiadosti priložiť súhlas na zneškodnenie odpadu podľa osobitného predpisu.51)
@@ -154,14 +154,14 @@ Ustanovenie dopĺňa únijnú úpravu colného režimu aktívny zušľachťovac�
 
 ### § 37
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zápis sumy dovozného cla alebo sumy vývozného cla do účtovnej evidencie sa nevykoná, ak ide o sumu, ktorá sa už nesmie dlžníkovi oznámiť podľa osobitného predpisu52) alebo podľa § 53 ods. 4.
 
 Ustanovenie rieši vzťah medzi povinnosťou zapísať vymeranú sumu cla do účtovnej evidencie (zaúčtovanie, ktoré je podľa colných predpisov Únie predpokladom oznámenia colného dlhu dlžníkovi) a prekluzívnymi lehotami, po uplynutí ktorých už sumu nemožno oznámiť. Ak uplynula lehota podľa osobitného predpisu Únie alebo desaťročná lehota podľa § 53 ods. 4 tohto zákona (týkajúca sa colného dlhu vzniknutého v súvislosti s konaním majúcim znaky trestného činu), stráca zaúčtovanie zmysel, pretože suma by sa aj tak nemohla dlžníkovi platne oznámiť, a preto zákon vylučuje samotný zápis. Ide o logickú väzbu medzi hmotnoprávnym zánikom možnosti oznámiť colný dlh a technicko-evidenčným úkonom, ktorý by inak zbytočne zaťažoval účtovnú evidenciu colného úradu sumami, ktoré sa už nikdy nemôžu stať vymáhateľnými.
 
 ### § 38
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Colný dlh možno uhradiť v hotovosti, poštovým poukazom, šekom, bezhotovostným prevodom z účtu na účet štátneho rozpočtu, ktorý je vedený pre colný úrad alebo finančné riaditeľstvo, alebo započítaním preplatku na iných platbách. Colný dlh možno uhradiť v hotovosti, ak neprevyšuje sumu 1 500 eur.
 >
 > (2) Colný úrad môže na základe žiadosti povoliť dlžníkovi zaplatenie colného dlhu v splátkach, ak by bolo okamžité zaplatenie pre dlžníka spojené s vážnou ujmou alebo ak dlžník nemôže z iných objektívnych dôvodov zaplatiť colný dlh naraz, najviac však na dobu nepresahujúcu lehotu, v ktorej sa premlčuje právo vymáhať nedoplatok colného dlhu podľa § 61.
@@ -170,7 +170,7 @@ Ustanovenie upravuje spôsoby a modality úhrady colného dlhu. Odsek 1 taxatív
 
 ### § 40
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Slobodné pásma
 >
 > § 40
@@ -181,7 +181,7 @@ Ustanovenie otvára oddiel venovaný slobodným pásmam a stanovuje základnú f
 
 ### § 41
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Zriadenie slobodného pásma na žiadosť osoby povoľuje ministerstvo na základe predchádzajúceho rozhodnutia vlády Slovenskej republiky. V povolení ministerstvo určí, ktoré časti colného územia tvoria slobodné pásmo, určí prevádzkovateľa a podmienky prevádzkovania slobodného pásma, miesto vstupu do slobodného pásma, miesto výstupu zo slobodného pásma a čas, na aký sa slobodné pásmo zriaďuje.
 >
 > (2) Stavby postavené v slobodnom pásme bez súhlasu colného úradu colný úrad na náklady vlastníka stavby bezodkladne odstráni; ustanovenia osobitných právnych predpisov tým nie sú dotknuté.
@@ -194,14 +194,14 @@ Ustanovenie upravuje procesný postup zriadenia, obsah povolenia a zrušenie slo
 
 ### § 43
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prevádzkovateľ slobodného pásma je povinný oznámiť colnému úradu každú stratu tovaru okrem prirodzených strát.
 
 Ustanovenie zakotvuje oznamovaciu povinnosť prevádzkovateľa slobodného pásma pri strate tovaru, ktorý sa v pásme nachádza pod colným dohľadom. Povinnosť sa vzťahuje na akúkoľvek stratu s výnimkou strát prirodzenej povahy (napríklad úbytok spôsobený vlastnosťami samotného tovaru — vyparovanie, vysychanie, prirodzený úbytok pri skladovaní sypkých alebo tekutých látok), ktoré sa nepovažujú za stratu v právnom zmysle zakladajúcu oznamovaciu povinnosť, keďže ide o objektívne a predvídateľné javy nesúvisiace s protiprávnym konaním alebo nedbalosťou. Účelom ustanovenia je umožniť colnému úradu priebežne sledovať, či sa s tovarom v slobodnom pásme nezaobchádza spôsobom porušujúcim colný dohľad, a prípadne včas zasiahnuť, ak strata signalizuje nezákonné vyňatie tovaru spod colného dohľadu, s ktorým môže byť spojený vznik colného dlhu.
 
 ### § 44
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oslobodenie tovaru od dovozného cla alebo vývozného cla
 >
 > § 44
@@ -220,7 +220,7 @@ Ustanovenie otvára rozsiahly oddiel venovaný oslobodeniu tovaru od dovozného 
 
 ### § 45
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Tovar v batožine cestujúceho
 >
 > § 45
@@ -231,7 +231,7 @@ Ustanovenie je odkazovacou normou, ktorá pre oslobodenie tovaru v osobnej bato�
 
 ### § 47
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Tovar dovážaný osobami, ktoré požívajú výsady a imunity podľa medzinárodného práva, a vybavenie zahraničných pracovísk
 >
 > § 47
@@ -254,7 +254,7 @@ Ustanovenie zakotvuje colné oslobodenie tovaru súvisiaceho s diplomatickými a
 
 ### § 48
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Tovar oslobodený od dovozného cla podľa § 47 ods. 1 alebo podľa medzinárodných zmlúv pre inštitúcie tretích štátov alebo medzinárodné organizácie možno bez predchádzajúceho oznámenia colnému úradu vypožičať, dať do zálohy, prenajať alebo previesť až po uplynutí lehoty vyplývajúcej z princípu vzájomnosti vo vzťahu k tretiemu štátu, najmenej však po uplynutí 12 mesiacov odo dňa prijatia colného vyhlásenia na prepustenie tovaru do voľného obehu, v prípade cestných motorových vozidiel najmenej po uplynutí dvoch rokov.
 >
 > (2) Ak sa tovar podľa odseku 1 vypožičia, dá do zálohy, prenechá do nájmu alebo prevedie pred uplynutím lehoty podľa odseku 1, deklarant je povinný vopred o tom informovať colný úrad; colný úrad vymeria a vyberie dovozné clo podľa sadzieb platných v deň naloženia s týmto tovarom z colnej hodnoty prijatej alebo určenej colným úradom k tomuto dňu.
@@ -265,7 +265,7 @@ Ustanovenie nadväzuje na § 47 a upravuje časovú väzbu (viazanosť) tovaru o
 
 ### § 49
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Palubné zásoby
 >
 > (1) Od dovozného cla sú oslobodené na princípe vzájomnosti vo vzťahu k tretiemu štátu zásoby potravín, nápojov, tabakových výrobkov a ostatného tovaru, ktoré sú určené na spotrebu alebo ďalšie použitie cestujúcimi a posádkou na palube dopravných prostriedkov používaných na podnikateľské účely v oblasti leteckej dopravy a vodnej dopravy pri preprave cez colnú hranicu, ak je poskytovanie takej služby v týchto dopravných prostriedkoch obvyklé.
@@ -280,7 +280,7 @@ Ustanovenie upravuje oslobodenie palubných zásob od dovozného cla v medzinár
 
 ### § 50
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Pohonné látky
 >
 > § 50
@@ -291,7 +291,7 @@ Ustanovenie zakotvuje oslobodenie pohonných látok v hlavných nádržiach obch
 
 ### § 51
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Semená, osivá a hnojivá
 >
 > (1) Semená a osivá sú oslobodené od dovozného cla na princípe vzájomnosti vo vzťahu k tretiemu štátu.
@@ -304,14 +304,14 @@ Ustanovenie zakotvuje oslobodenie poľnohospodárskych vstupov (semien, osív, h
 
 ### § 52
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ustanovenia § 44 až 51 sa uplatnia primerane na vývoz tovaru, ktorý podlieha vývoznému clu.
 
 Ustanovenie je odkazovacou normou rozširujúcou celý predchádzajúci súbor pravidiel o oslobodení od dovozného cla (procesné pravidlá vydávania rozhodnutia podľa § 44, ako aj vecné oslobodenia podľa § 45 a § 47 až § 51) primerane aj na vývoz tovaru podliehajúceho vývoznému clu. Vzhľadom na to, že vývozné clo je v praxi Únie výnimočným javom (colná politika Únie sa spravidla obmedzuje na dovozné clo, vývozné clo sa uplatňuje len na vybrané kategórie tovaru za osobitných okolností), ide o legislatívno-technické poistenie systematickej úplnosti právnej úpravy pre prípad, že by sa vývozné clo v konkrétnom prípade uplatnilo, bez potreby duplicitne formulovať zrkadlové ustanovenia pre vývoznú stranu.
 
 ### § 52a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zbrane a vojenské zariadenia
 >
 > § 52a
@@ -324,7 +324,7 @@ Ustanovenie upravuje kompetenčnú stránku osobitného colného režimu pozasta
 
 ### § 52b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Tovar dovážaný schválenými charitatívnymi organizáciami alebo schválenými dobročinnými organizáciami
 >
 > (1) Za schválenú charitatívnu organizáciu alebo schválenú dobročinnú organizáciu sa na účely priznania oslobodenia od dovozného cla podľa osobitného predpisu59c) považuje právnická osoba podľa osobitného predpisu,59d) ktorá podľa zakladajúceho dokumentu vykonáva činnosť charitatívnej povahy alebo činnosť dobročinnej povahy, alebo medzinárodná organizácia, ktorej predmet činnosti podľa zakladajúceho dokumentu zahŕňa aj činnosť charitatívnej povahy alebo činnosť dobročinnej povahy.
@@ -337,7 +337,7 @@ Ustanovenie vnútroštátne konkretizuje pojem "schválená charitatívna organi
 
 ### § 53
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Oznámenie sumy colného dlhu
 >
 > (1) Ak sa použije postup podľa osobitného predpisu,60) colný úrad oznámi dlžníkovi sumu colného dlhu doručením
@@ -374,7 +374,7 @@ Ustanovenie upravuje formy, obsah a osobitné lehoty oznámenia sumy colného dl
 
 ### § 54
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zloženie peňažných prostriedkov v hotovosti
 >
 > (1) Na účely záruky na colný dlh je zloženiu peňažných prostriedkov v hotovosti rovnocenné predloženie dokladu o vinkulovaní vkladu v banke alebo v pobočke zahraničnej banky v prospech colného úradu alebo bezhotovostný prevod peňažných prostriedkov na účet colného úradu. Peňažné prostriedky použité na záruku na colný dlh nepodliehajú výkonu rozhodnutia.60c)
@@ -387,7 +387,7 @@ Ustanovenie otvára oddiel venovaný zabezpečovacím inštitútom colného dlhu
 
 ### § 55
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ručenie
 >
 > (1) Ručenie sa poskytuje vo forme jednotlivej záruky alebo celkovej záruky.
@@ -444,7 +444,7 @@ Ustanovenie predstavuje najrozsiahlejšiu a systematicky najprepracovanejšiu ú
 
 ### § 55a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Osobitné ustanovenie o ručiteľskom vyhlásení
 >
 > (1) Pri ručení vo forme jednotlivej záruky ručiteľ uvedený v § 55 ods. 2 podáva ručiteľské vyhlásenie podľa vzoru, ktorý ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo; vzor ručiteľského vyhlásenia podľa osobitného predpisu60g) sa nepoužije.
@@ -467,7 +467,7 @@ Ustanovenie dopĺňa § 55 o osobitnú, technicky podrobnú úpravu ručiteľsk�
 
 ### § 56
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zádržné právo
 >
 > Colný úrad môže na zabezpečenie nedoplatku colného dlhu, pokuty alebo inej platby vymeranej alebo uloženej colným úradom zadržať tovar alebo inú vec, aj ak je povinný tovar alebo inú vec vydať; ustanovenia osobitného predpisu61) sa použijú primerane. Ustanovenia § 64 tým nie sú dotknuté.
@@ -476,14 +476,14 @@ Ustanovenie zakotvuje zádržné právo colného úradu ako svojpomocný zabezpe
 
 ### § 56a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Colný úrad môže na zabezpečenie svojej pohľadávky zriadiť k veciam a právam dlžníka a ručiteľa colné záložné právo. Na zriadenie colného záložného práva a na úkony súvisiace s colným záložným právom sa primerane použijú ustanovenia osobitného predpisu.61a)
 
 Ustanovenie dopĺňa zádržné právo podľa § 56 o ďalší, systémovo významnejší zabezpečovací inštitút — colné záložné právo, ktoré na rozdiel od zádržného práva nevyžaduje, aby colný úrad už mal vec fakticky u seba, ale umožňuje mu zriadiť záložné právo priamo k veciam a právam dlžníka alebo ručiteľa ako celku. Ide teda o silnejší zabezpečovací nástroj porovnateľný so záložným právom v súkromnom práve, ktorý colnému úradu dáva prednostné postavenie pri prípadnom speňažení zaťaženého majetku v exekučnom alebo insolvenčnom konaní. Rovnako ako pri zádržnom práve zákon odkazuje na primerané použitie osobitného predpisu (spravidla úpravy záložného práva vo všeobecných daňových alebo exekučných predpisoch) pre samotné zriadenie záložného práva aj pre s ním súvisiace úkony, čím sa vyhýba duplicitnej podrobnej úprave v colnom zákone.
 
 ### § 56b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zaokrúhľovanie cla
 >
 > Vymerané clo sa zaokrúhľuje na eurocenty do 0,005 eura nadol a od 0,005 eura vrátane nahor.
@@ -492,7 +492,7 @@ Ustanovenie stanovuje jednotné aritmetické pravidlo zaokrúhľovania vymerané
 
 ### § 57
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zanedbateľné sumy
 >
 > (1) Colný úrad neoznámi colný dlh pri dovoze alebo colný dlh pri vývoze, ak colný dlh vznikol nesplnením povinnosti alebo nedodržaním podmienky podľa osobitného predpisu61aa) a suma colného dlhu, ktorá sa má oznámiť, v konkrétnom prípade nedosiahne sumu desať eur.
@@ -505,7 +505,7 @@ Ustanovenie zavádza prah bagateľnosti (de minimis), pod ktorý sa colný dlh n
 
 ### § 58
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Deň platby
 >
 > (1) Za deň platby sa považuje
@@ -524,7 +524,7 @@ Ustanovenie definuje rozhodujúci okamih platby colného dlhu pre rôzne platobn
 
 ### § 59
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Úrok z omeškania
 >
 > (1) Colný úrad vymeria úrok z omeškania v súlade s osobitným predpisom.61ab)
@@ -537,7 +537,7 @@ Ustanovenie zakotvuje inštitút úroku z omeškania ako sankčný a kompenzačn
 
 ### § 59a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Úrok z omeškania pri poskytovaní medzinárodnej pomoci pri vymáhaní pohľadávky
 >
 > (1) Ak osoba podľa osobitného predpisu61b) najneskôr v deň predchádzajúci dňu doručenia úplnej žiadosti o vymáhanie pohľadávky61c) nezaplatila colný dlh členskému štátu uvedený v osobitnom predpise,61d) colný úrad vymeria tejto osobe úrok z omeškania.
@@ -548,7 +548,7 @@ Ustanovenie upravuje osobitný režim úroku z omeškania v cezhraničnom kontex
 
 ### § 60
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Premlčanie
 >
 > (1) Právo vyberať a vymáhať nedoplatok colného dlhu, nedoplatok pokút a iných platieb vymeraných a uložených podľa colných predpisov sa premlčuje uplynutím desiatich rokov od konca roka, v ktorom sa stal nedoplatok splatný.
@@ -563,7 +563,7 @@ Ustanovenie upravuje premlčanie práva vyberať a vymáhať nedoplatok colného
 
 ### § 60a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Preplatok
 >
 > (1) Preplatok je suma platby, ktorá prevyšuje splatné clo, pokutu, iné platby vymerané alebo uložené podľa colných predpisov, daň z pridanej hodnoty alebo spotrebnú daň pri dovoze, na ktorých úhradu sa použila.
@@ -594,7 +594,7 @@ Ustanovenie komplexne upravuje inštitút preplatku — sumy platby prevyšujúc
 
 ### § 61
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vymáhanie nedoplatkov
 >
 > (1) Ak colný dlh, pokuty a iné platby vymerané a uložené podľa colných predpisov neboli v lehote splatnosti62) uhradené, colný úrad môže začať nedoplatok vymáhať v colnom exekučnom konaní.
@@ -607,7 +607,7 @@ Ustanovenie zakotvuje právny základ colného exekučného konania ako vlastné
 
 ### § 61a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak colný úrad zistí, že dlžné čiastky zodpovedajúce ustanoveným nárokom únie na vlastné zdroje63a) nemožno vybrať z dôvodov uvedených v osobitnom predpise,63b) vydá za podmienok ustanovených v tomto osobitnom predpise rozhodnutie, na základe ktorého sa čiastky zodpovedajúce ustanoveným nárokom únie na vlastné zdroje63a) vyhlásia za čiastky, ktoré nemožno vybrať.
 >
 > (2) Rozhodnutie podľa odseku 1 sa nedoručuje a je právoplatné dňom jeho vydania. Proti takémuto rozhodnutiu nemožno podať opravný prostriedok.
@@ -616,7 +616,7 @@ Ustanovenie rieši osobitný procesný postup pre prípad, keď dlžné čiastky
 
 ### § 64
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zaistenie tovaru alebo veci
 >
 > (1) Colný úrad môže zaistiť tovar alebo vec,

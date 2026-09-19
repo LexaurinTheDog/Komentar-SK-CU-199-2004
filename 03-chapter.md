@@ -4,7 +4,7 @@ Kapitola 03 pokrýva § 65 až § 93a zákona č. 199/2004 Z. z., Colný zákon.
 
 ### § 65
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak vlastník tovaru alebo veci, osoba, ktorá je oprávnená s tovarom alebo vecou nakladať, alebo osoba, u ktorej sa zaistený tovar alebo vec v čase zaistenia nachádzali, v lehote určenej colným úradom neodstráni pochybnosti alebo dôvody, ktoré viedli k zaisteniu tovaru alebo veci podľa § 64 ods. 1 písm. a), c) až e), colný úrad vydá rozhodnutie o zhabaní tovaru alebo veci, ak o zhabaní nemožno rozhodnúť v konaní o colnom priestupku alebo v konaní o colnom delikte, alebo colný úrad vydá rozhodnutie o prepadnutí tovaru alebo veci štátu. Odvolanie proti týmto rozhodnutiam má odkladný účinok.
 >
 > (2) Ak si na zaistený tovar alebo vec uplatnila právo iná osoba ako podľa odseku 1, colný úrad vydá rozhodnutie o prepadnutí tovaru alebo veci alebo rozhodnutie o zhabaní tovaru alebo veci najskôr po márnom uplynutí lehoty ustanovenej v § 64 ods. 9.
@@ -15,7 +15,7 @@ Ustanovenie uzatvára proces, ktorý začína zaistením tovaru alebo veci podľ
 
 ### § 69
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Správa majetku štátu
 >
 > (1) Ak osobitný predpis70a) neustanovuje inak, colný úrad vykonáva správu majetku štátu pri tovare alebo veci,
@@ -48,7 +48,7 @@ Ustanovenie upravuje osud tovaru a veci, ktoré sa v dôsledku prepadnutia, zhab
 
 ### § 70
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zodpovednosť za porušenie colných predpisov
 >
 > § 70
@@ -61,7 +61,7 @@ Ustanovenie otvára oddiel o zodpovednosti za porušenie colných predpisov leg�
 
 ### § 71
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Colný priestupok
 >
 > (1) Colný priestupok je zavinené konanie alebo opomenutie fyzickej osoby,80) ktorým porušila colné predpisy spôsobom uvedeným v § 72 ods. 1.
@@ -72,7 +72,7 @@ Ustanovenie zrkadlovo dopĺňa § 70 vo vzťahu k fyzickým osobám nepodnikate�
 
 ### § 72
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Colného deliktu alebo colného priestupku sa dopustí ten, kto
 >
 > a) nezákonne dovezie alebo vyvezie tovar,
@@ -138,7 +138,7 @@ Ustanovenie obsahuje jadrovú, spoločnú skutkovú podstatu colného deliktu aj
 
 ### § 73
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Sankcie za colný delikt
 >
 > § 73
@@ -153,7 +153,7 @@ Ustanovenie otvára pododdiel o sankciách za colný delikt a taxatívne vymedzu
 
 ### § 74
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Za colný delikt možno podľa závažnosti porušenia colných predpisov uložiť pokutu do 99 581,75 eura; ak ide o colný delikt podľa § 72 ods. 1 písm. o), do 331 939,18 eura.
 >
 > (2) Pokuta uložená za colný delikt je splatná do 30 dní odo dňa nadobudnutia právoplatnosti rozhodnutia, ktorým bola uložená.
@@ -162,7 +162,7 @@ Ustanovenie určuje hornú hranicu sadzby pokuty za colný delikt a lehotu jej s
 
 ### § 75
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Prepadnutie tovaru alebo veci možno uložiť, ak tovar alebo vec vo vlastníctve porušovateľa boli použité alebo určené na spáchanie colného deliktu alebo získané colným deliktom, alebo boli nadobudnuté za tovar colným deliktom získaný; ak ide o colný delikt podľa § 72 ods. 1 písm. r), colný úrad vždy uloží prepadnutie tovaru alebo veci.
 >
 > (2) Prepadnutie tovaru alebo veci nemožno uložiť, ak je hodnota tovaru alebo veci v nápadnom nepomere k povahe colného deliktu okrem colného deliktu podľa § 72 ods. 1 písm. r).
@@ -175,7 +175,7 @@ Ustanovenie konkretizuje podmienky uloženia sankcie prepadnutia tovaru alebo ve
 
 ### § 76
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pokutu alebo prepadnutie tovaru alebo veci možno uložiť porušovateľovi do dvoch rokov odo dňa, keď colný úrad zistil, že táto osoba porušila alebo nesplnila povinnosť uloženú colnými predpismi, najneskôr však do šiestich rokov odo dňa porušenia alebo nesplnenia povinnosti.
 >
 > (2) Plynutie lehoty podľa odseku 1 sa prerušuje odo dňa podania žaloby na súd do nadobudnutia právoplatnosti rozhodnutia súdu vo veci.
@@ -184,7 +184,7 @@ Ustanovenie zakotvuje prekluzívne lehoty na uloženie sankcie za colný delikt,
 
 ### § 77
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Colný úrad môže rozhodnúť o zhabaní tovaru alebo veci, ak tovar alebo vec nie sú vo vlastníctve porušovateľa alebo ak porušovateľ je neznámy a ak to vyžaduje bezpečnosť osôb alebo majetku, alebo iný verejný záujem; ak ide o colný delikt podľa § 72 ods. 1 písm. r), colný úrad vždy rozhodne o zhabaní tovaru alebo veci.
 >
 > (2) O zhabaní tovaru alebo veci nemožno rozhodnúť, ak od spáchania colného deliktu uplynulo šesť rokov.
@@ -195,7 +195,7 @@ Ustanovenie upravuje zhabanie tovaru alebo veci ako doplnkový inštitút k prep
 
 ### § 78
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Colný delikt prejednáva colný úrad, v ktorého územnom obvode má porušovateľ trvalý pobyt alebo sídlo.
 >
 > (2) Ak nemá porušovateľ trvalý pobyt alebo sídlo v Slovenskej republike, prejednáva colný delikt colný úrad, v ktorého územnom obvode bol colný delikt spáchaný alebo zistený.
@@ -208,21 +208,21 @@ Ustanovenie upravuje miestnu príslušnosť na prejednanie colného deliktu a po
 
 ### § 79
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Výnosy z pokút uložených za colné delikty sú príjmom štátneho rozpočtu.
 
 Ustanovenie jednoznačne priraďuje výnosy z pokút uložených za colné delikty do štátneho rozpočtu, čím vylučuje akékoľvek alternatívne určenie tohto príjmu (napríklad v prospech rozpočtu colného úradu alebo účelového fondu). Ide o štandardné vyjadrenie zásady, že sankčné platby ukladané orgánmi verejnej správy pri výkone verejnej moci plynú do všeobecných verejných financií a nepredstavujú zdroj vlastných príjmov ukladajúceho orgánu, čím sa predchádza aj potenciálnemu konfliktu záujmov, keď by orgán mohol byť motivovaný ukladať sankcie vo vlastnom finančnom záujme.
 
 ### § 79a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak boli splnené podmienky na prepadnutie tovaru alebo veci a tento tovar alebo vec boli predané podľa osobitného predpisu82aa) skôr, ako bolo rozhodnuté o ich prepadnutí, colný úrad môže rozhodnúť o prepadnutí peňažných prostriedkov získaných predajom tohto tovaru alebo veci.
 
 Ustanovenie rieši procesnú koincidenciu, keď tovar alebo vec, pri ktorých sú splnené hmotnoprávne podmienky na uloženie prepadnutia, boli medzičasom - ešte pred vydaním rozhodnutia o prepadnutí - predané postupom podľa osobitného predpisu (typicky ide o skorší predaj tovaru podliehajúceho skaze alebo tovaru, s ktorým nemožno ďalej nakladať bez zbytočného odkladu). V takom prípade by fyzické prepadnutie tovaru už nebolo možné, keďže predmet neexistuje v dispozícii porušovateľa alebo colného úradu v pôvodnej podobe; zákon preto umožňuje transformáciu predmetu sankcie - namiesto tovaru samotného môže colný úrad rozhodnúť o prepadnutí peňažných prostriedkov získaných jeho predajom. Ide o funkčný ekvivalent prepadnutia veci, ktorý zabezpečuje, že skorší predaj tovaru z praktických alebo naliehavých dôvodov nezmarí účel sankcie a nezvýhodní porušovateľa oproti stavu, keby k predaju nedošlo.
 
 ### § 80
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Sankcie za colný priestupok
 >
 > § 80
@@ -245,14 +245,14 @@ Ustanovenie otvára pododdiel o sankciách za colný priestupok a v porovnaní s
 
 ### § 81
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Pokuta uložená za colný priestupok je splatná do 30 dní odo dňa nadobudnutia právoplatnosti rozhodnutia, ktorým bola uložená.
 
 Ustanovenie stanovuje splatnosť pokuty uloženej za colný priestupok v rovnakej tridsaťdňovej lehote plynúcej od právoplatnosti rozhodnutia, ako je to pri pokute za colný delikt podľa § 74 ods. 2. Zjednotenie lehoty splatnosti pre obe kategórie sankčných konaní zjednodušuje výkon rozhodnutí a zabezpečuje predvídateľnosť pre povinné osoby bez ohľadu na to, či ide o delikt, alebo priestupok; po márnom uplynutí tejto lehoty sa pokuta stáva vymáhateľnou a colný úrad môže pristúpiť k jej vymáhaniu podľa všeobecných predpisov o vymáhaní nedoplatkov, prípadne colnou exekúciou.
 
 ### § 82
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Colný priestupok prejednáva colný úrad, v ktorého územnom obvode bol colný priestupok zistený, a to aj vtedy, ak bol spáchaný v územnom obvode iného colného úradu.
 >
 > (2) Colný úrad, ktorý je príslušný na prejednanie colného priestupku, môže postúpiť colný priestupok na prejednanie colnému úradu, v ktorého územnom obvode má fyzická osoba, ktorá sa colného priestupku dopustila, trvalý pobyt alebo v ktorom sa trvalo zdržiava.
@@ -261,7 +261,7 @@ Ustanovenie upravuje miestnu príslušnosť na prejednanie colného priestupku o
 
 ### § 83
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Prepadnutie tovaru alebo veci možno uložiť, ak tovar alebo vec sú vo vlastníctve fyzickej osoby, ktorá sa dopustila colného priestupku a tovar alebo vec boli
 >
 > a) použité alebo určené na spáchanie colného priestupku,
@@ -280,28 +280,28 @@ Ustanovenie je štruktúrou aj obsahom takmer identické s úpravou prepadnutia 
 
 ### § 84
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Výnosy z pokút uložených za colné priestupky sú príjmom štátneho rozpočtu.
 
 Ustanovenie zrkadlovo dopĺňa § 79 vo vzťahu k pokutám uloženým za colné priestupky - aj tieto výnosy plynú do štátneho rozpočtu, čím sa zabezpečuje jednotný režim nakladania s výnosmi zo sankčnej činnosti colných orgánov bez ohľadu na to, či ide o delikt, alebo priestupok.
 
 ### § 84a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak ide o colný priestupok podľa § 72 ods. 1 písm. r), colný úrad rozhodne o zhabaní tovaru alebo veci, ak tovar alebo vec nie sú vo vlastníctve fyzickej osoby, ktorá sa colného priestupku dopustila alebo ak je táto osoba neznáma.
 
 Ustanovenie prenáša inštitút zhabania upravený pre colný delikt v § 77 aj do oblasti colných priestupkov, avšak v obmedzenom rozsahu - výslovne len pre priestupok podľa § 72 ods. 1 písm. r), teda porušenie povinnosti pri tovare pod colným dohľadom, ktoré zákon v celej sústave sankčných ustanovení dôsledne traktuje ako osobitne závažné (obligatórne prepadnutie aj obligatórne zhabanie bez diskrécie úradu). Podmienkou zhabania je, že tovar alebo vec nie sú vo vlastníctve páchateľa priestupku, alebo že páchateľ je neznámy - teda ide o rovnakú logickú konštrukciu ako pri delikte, keď prepadnutie ako trest voči páchateľovi neprichádza do úvahy a zhabanie nastupuje ako ochranné opatrenie namierené proti samotnej veci. Na rozdiel od § 77 ods. 1 tu zákon neobsahuje doplňujúcu podmienku vyžadujúcu naplnenie záujmu na bezpečnosti osôb alebo majetku, či iného verejného záujmu - pri priestupku podľa písmena r) je zhabanie obligatórne bez ďalšej podmienky, čo len potvrdzuje osobitnú prísnosť režimu vzťahujúceho sa na túto skutkovú podstatu.
 
 ### § 84aa
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak boli splnené podmienky na prepadnutie tovaru alebo veci a tento tovar alebo vec boli predané podľa osobitného predpisu82aa) skôr, ako bolo rozhodnuté o ich prepadnutí, colný úrad môže rozhodnúť o prepadnutí peňažných prostriedkov získaných predajom tohto tovaru alebo veci.
 
 Ustanovenie je doslovným obsahovým náprotivkom § 79a, tentoraz vo vzťahu ku colným priestupkom - rieši rovnakú situáciu, keď boli splnené podmienky na prepadnutie tovaru alebo veci, avšak tento tovar alebo vec boli ešte pred vydaním rozhodnutia o prepadnutí predané podľa osobitného predpisu (napríklad z dôvodu rýchlej skazy alebo inej naliehavosti). Colný úrad v takom prípade môže namiesto prepadnutia samotného tovaru rozhodnúť o prepadnutí peňažných prostriedkov získaných jeho predajom, čím sa zachováva sankčný účinok aj v prípadoch, keď fyzický predmet sankcie už medzičasom zanikol v dôsledku skoršieho predaja.
 
 ### § 84b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Osobitné ustanovenia o zodpovednosti za porušenie colných predpisov spôsobené predložením nesprávnych údajov alebo nepravdivých údajov
 >
 > (1) Zodpovednosť deklaranta za colný delikt alebo colný priestupok podľa § 72 ods. 1 písm. d) zaniká, ak deklarant sám podá žiadosť o opravu nesprávnych údajov alebo nepravdivých údajov82a) colnému úradu, ktorý rozhodol o prepustení tovaru.
@@ -322,7 +322,7 @@ Ustanovenie zavádza osobitný liberačný a zmierňujúci režim pre prípady d
 
 ### § 85
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Spoločné, prechodné a záverečné ustanovenia
 >
 > § 85
@@ -361,7 +361,7 @@ Ustanovenie otvára posledný, najobsiahlejší oddiel zákona venovaný spoloč
 
 ### § 86
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak je žiadateľom o vydanie záväznej informácie podľa osobitného predpisu30) fyzická osoba, je povinná na účely vydania záväznej informácie uviesť finančnému riaditeľstvu svoje rodné číslo.
 >
 > (2) Ak je deklarantom fyzická osoba, je na účely colného konania povinná uviesť colnému úradu svoje rodné číslo.
@@ -370,7 +370,7 @@ Ustanovenie zakotvuje povinnosť fyzickej osoby uviesť svoje rodné číslo v d
 
 ### § 87
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak colný orgán vykonáva pôsobnosť podľa osobitných predpisov a ak tieto predpisy neustanovujú inak, pri jej vykonávaní má rovnaké práva a povinnosti ako pri colnom dohľade. To isté sa vzťahuje aj na práva a povinnosti osôb, ktoré tomu dohľadu podliehajú.
 >
 > (2) Ak pri dovoze tovaru vznikne alebo môže vzniknúť daňová povinnosť, na zabezpečenie dane sa použijú colné predpisy; to neplatí, ak osobitný predpis84a) ustanovuje inak. Ak pri dovoze tovaru vznikne alebo môže vzniknúť daňová povinnosť, spotrebná daň musí byť pri dovoze tovaru, ktorý je predmetom spotrebnej dane, vždy zabezpečená; spotrebná daň sa považuje za zabezpečenú aj, ak sa postupuje podľa osobitného predpisu.85)
@@ -381,7 +381,7 @@ Ustanovenie rieši dve samostatné otázky - rozsah právomocí colného orgánu
 
 ### § 87a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak colný úrad v súvislosti s dovozom tovaru vymeria jedným rozhodnutím clo a daň podľa osobitného predpisu53) a dlžná suma nie je zaplatená alebo vymožená v plnej výške, zaplatená alebo vymožená časť dlžnej sumy sa použije na úhradu cla a dane v tomto poradí:
 >
 > a) clo,
@@ -394,7 +394,7 @@ Ustanovenie rieši poradie uspokojenia pohľadávok v situácii, keď colný úr
 
 ### § 87b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Úspešným absolvovaním školenia podľa osobitného predpisu85aa) je úspešné vykonanie skúšky.
 >
 > (2) Žiadosť o vykonanie skúšky sa predkladá finančnému riaditeľstvu spolu s dokladom o absolvovaní školenia v rozsahu tém, ktoré sú obsahom skúšky, a dokladom o úhrade nákladov na skúšku. Bez predloženia žiadosti a dokladov podľa prvej vety nie je možné skúšku vykonať.
@@ -413,7 +413,7 @@ Ustanovenie vykonáva osobitný predpis (colné predpisy Únie) v otázke preuka
 
 ### § 88
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Započítanie pohľadávok
 >
 > (1) Ak má colný úrad colnú pohľadávku voči dlžníkovi a dlžník má zároveň pohľadávku voči štátnej rozpočtovej organizácii, možno tieto pohľadávky vzájomne započítať. Započítaním také pohľadávky zaniknú vo výške, v ktorej sa kryjú, a to dňom doručenia potvrdenia finančného riaditeľstva o započítaní dlžníkovi. Colnou pohľadávkou sa rozumie colný dlh, jeho príslušenstvo, pokuty a iné platby vymerané a uložené podľa colných predpisov.
@@ -448,7 +448,7 @@ Ustanovenie upravuje osobitný spôsob zániku colnej pohľadávky formou vzájo
 
 ### § 89
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Postúpenie pohľadávky a dočasne nevymožiteľného nedoplatku
 >
 > (1) Colný úrad môže postúpiť právnickej osobe so 100-percentnou majetkovou účasťou štátu
@@ -489,14 +489,14 @@ Ustanovenie upravuje osobitný mechanizmus postúpenia colných pohľadávok a d
 
 ### § 89b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Colný dlh, ktorý vznikol podľa predpisov účinných pred 1. májom 2004 a ktorý nebol uhradený v lehote splatnosti, môže colný úrad odpísať z vlastného podnetu, ak je nevymožiteľný. Za nevymožiteľný sa považuje nedoplatok, ktorý sa bezvýsledne vymáhal od dlžníka a iných osôb, od ktorých sa mohol vymáhať, alebo ak je zrejmé, že by vymáhanie bolo neúspešné, alebo je pravdepodobné, že by náklady na jeho vymáhanie presiahli výťažok z vymáhania. Rovnako sa postupuje, ak nedoplatok nie je nevymožiteľný, ale jeho vymáhanie je spojené s osobitnými alebo nadmernými ťažkosťami.
 
 Ustanovenie upravuje osobitný, časovo ohraničený inštitút odpisu colného dlhu, ktorý vznikol ešte podľa predpisov účinných pred 1. májom 2004, teda pred vstupom Slovenskej republiky do Európskej únie a pred priamou účinnosťou colných predpisov Únie. Ide o legislatívne riešenie "starých" pohľadávok z obdobia pred pristúpením, ktoré by inak zostávali dlhodobo evidované bez reálnej perspektívy vymoženia. Colný úrad môže takýto nedoplatok odpísať z vlastného podnetu (teda bez návrhu dlžníka), ak je nevymožiteľný - definícia nevymožiteľnosti je obsahovo takmer identická s definíciou dočasne nevymožiteľného nedoplatku podľa § 89 ods. 2 (bezvýsledné vymáhanie, zrejmá neúspešnosť, neefektívnosť vymáhania), avšak s podstatným rozdielom, že tu ide o odpis, teda definitívne odstránenie z evidencie, kým pri § 89 ide o dočasné riešenie formou postúpenia. Posledná veta rozširuje možnosť odpisu aj na nedoplatky, ktoré formálne nespĺňajú definíciu nevymožiteľnosti, ale ich vymáhanie je spojené s osobitnými alebo nadmernými ťažkosťami, čo dáva colnému úradu určitú mieru správnej úvahy pri hospodárení so starými, administratívne náročnými pohľadávkami.
 
 ### § 89c
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zánik nedoplatkov
 >
 > (1) Nedoplatok platieb vymeraných alebo uložených podľa colných predpisov okrem nedoplatku na cle a nedoplatok dane z pridanej hodnoty alebo spotrebnej dane pri dovoze zanikne dňom
@@ -521,14 +521,14 @@ Ustanovenie upravuje taxatívny výpočet právnych skutočností, ktorých nast
 
 ### § 90
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ustanovenia tohto zákona sa nepoužijú, ak medzinárodná zmluva, ktorou je Slovenská republika viazaná, ustanovuje inak.
 
 Ustanovenie zakotvuje aplikačnú prednosť medzinárodných zmlúv, ktorými je Slovenská republika viazaná, pred vnútroštátnou úpravou Colného zákona. Ide o vyjadrenie všeobecnej ústavnoprávnej zásady (zakotvenej aj v čl. 7 ods. 5 Ústavy Slovenskej republiky pri medzinárodných zmluvách s prednosťou pred zákonmi) v osobitnom colnoprávnom kontexte - ak medzinárodná zmluva upravuje otázku odlišne od Colného zákona, uplatní sa úprava zmluvy. Praktický význam má toto ustanovenie najmä vo vzťahu k dvojstranným a mnohostranným zmluvám o colnej spolupráci, dohodám o voľnom obchode alebo colným dohovorom (napríklad dohovoru o medzinárodnej preprave tovaru na podklade karnetov TIR), ktoré môžu obsahovať osobitné pravidlá odlišné od vnútroštátnej úpravy.
 
 ### § 91
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Na konanie začaté pred nadobudnutím platnosti zmluvy o pristúpení Slovenskej republiky k Európskej únii sa použijú doterajšie predpisy.
 >
 > (2) Lehoty, ktoré začali plynúť pred nadobudnutím platnosti zmluvy o pristúpení Slovenskej republiky k Európskej únii, ako aj lehoty na uplatnenie práv podľa doterajších predpisov, aj keď začnú plynúť po nadobudnutí platnosti zmluvy o pristúpení Slovenskej republiky k Európskej únii, sa posudzujú podľa doterajších predpisov.
@@ -539,28 +539,28 @@ Ustanovenie obsahuje intertemporálne (prechodné) pravidlá viazané na kľúč
 
 ### § 91a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Na konanie začaté pred 1. januárom 2008 sa použijú doterajšie predpisy.
 
 Ustanovenie obsahuje ďalšie intertemporálne pravidlo, tentoraz viazané na medzník 1. januára 2008, ktorý zodpovedá niektorej z neskorších novelizácií Colného zákona (súvisiacej pravdepodobne so zavedením eura na Slovensku od 1. januára 2009 a s prípravnými legislatívnymi zmenami, prípadne s inou úpravou procesných pravidiel účinnou od tohto dátumu). Rovnako ako pri § 91 ods. 1 platí zásada, že konania začaté pred rozhodným dátumom sa dokončia podľa predpisov účinných v čase ich začatia, čo zabezpečuje procesnú kontinuitu a predvídateľnosť pre účastníkov konania bez ohľadu na legislatívnu zmenu, ktorá nastala v jeho priebehu.
 
 ### § 92
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Peňažné prostriedky zložené na zabezpečenie colného dlhu pred nadobudnutím platnosti zmluvy o pristúpení Slovenskej republiky k Európskej únii sa použijú na úhradu dane podľa osobitného predpisu,89) ak daňová povinnosť vznikla po nadobudnutí platnosti zmluvy o pristúpení Slovenskej republiky k Európskej únii pri tovare, ktorý bol do colného režimu prepustený pred nadobudnutím platnosti zmluvy o pristúpení Slovenskej republiky k Európskej únii.
 
 Ustanovenie rieši osobitnú intertemporálnu situáciu, keď boli peňažné prostriedky zložené ako zábezpeka colného dlhu ešte pred vstupom Slovenskej republiky do Európskej únie, avšak daňová povinnosť (napríklad daň z pridanej hodnoty alebo spotrebná daň pri dovoze) vznikla až po vstupe, pri tovare, ktorý bol do colného režimu prepustený ešte pred vstupom. Zákon umožňuje použiť takto zloženú zábezpeku na úhradu tejto neskôr vzniknutej daňovej povinnosti, čím preklenuje časový nesúlad medzi okamihom zloženia zábezpeky (viazanej pôvodne na colný dlh podľa predvstupových predpisov) a okamihom vzniku novej daňovej povinnosti podľa predpisov účinných po vstupe. Ide o praktické riešenie zabraňujúce nutnosti vrátiť pôvodnú zábezpeku a súčasne vyžadovať zloženie novej, hoci ekonomický účel - zabezpečenie štátu vo vzťahu k dovezenému tovaru - zostáva zachovaný.
 
 ### § 92a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Osoba, ktorá bola schválená byť ručiteľom podľa doterajších predpisov, môže poskytovať ručenie v súlade s vydaným rozhodnutím o schválení byť ručiteľom a s podmienkami určenými colným úradom podľa doterajších predpisov. Príslušný colný úrad vydá do šiestich mesiacov odo dňa nadobudnutia účinnosti tohto zákona nové rozhodnutie o schválení byť ručiteľom, v ktorom určí podmienky podľa § 55 ods. 2 a 3.
 
 Ustanovenie upravuje prechodný režim pre osoby, ktoré boli schválené ako ručitelia colného dlhu ešte podľa predpisov predchádzajúcich tomuto zákonu (teda podľa dovtedajšieho Colného zákona č. 238/2001 Z. z., ktorý sa týmto zákonom ruší podľa § 93). Prvá veta zabezpečuje kontinuitu už vydaných rozhodnutí o schválení ručiteľa - takáto osoba môže naďalej poskytovať ručenie podľa pôvodného rozhodnutia a podmienok určených colným úradom podľa dovtedajších predpisov, čím sa predchádza nutnosti opakovane žiadať o nové schválenie hneď pri nadobudnutí účinnosti nového zákona a zachováva sa právna istota ručiteľov aj colnej správy. Druhá veta však ukladá príslušnému colnému úradu povinnosť do šiestich mesiacov od účinnosti tohto zákona vydať nové rozhodnutie o schválení ručiteľa, v ktorom určí podmienky už podľa novej úpravy (§ 55 ods. 2 a 3), čím sa zabezpečuje, že prechodný stav založený na starých podmienkach je časovo obmedzený a postupne sa v rámci polročnej lehoty nahradí plne aktuálnou úpravou.
 
 ### § 92b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. januára 2009
 >
 > Ak do 31. decembra 2008 nastala skutočnosť pre uplatnenie základnej úrokovej sadzby, po 31. decembri 2008 sa použije základná úroková sadzba podľa zákona účinného do 31. decembra 2008.
@@ -569,7 +569,7 @@ Ustanovenie rieši prechod medzi právnymi režimami určovania základnej úrok
 
 ### § 92c
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. júla 2013
 >
 > Následná kontrola začatá a neukončená podľa predpisov účinných pred 1. júlom 2013 sa dokončí podľa predpisov účinných do 30. júna 2013.
@@ -578,7 +578,7 @@ Ustanovenie rieši prechodný režim pre následné kontroly (kontroly po prepus
 
 ### § 92d
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Osoba, ktorá bola schválená byť ručiteľom podľa doterajších predpisov, sa považuje za osobu schválenú ako ručiteľ aj po dni začatia uplatňovania všetkých článkov nariadenia Európskeho parlamentu a Rady (EÚ) č. 952/2013 z 9. októbra 2013, ktorým sa ustanovuje Colný kódex Únie (ďalej len „deň uplatňovania nariadenia“). Takáto osoba je povinná predkladať ručiteľské vyhlásenia podľa predpisov účinných odo dňa uplatňovania nariadenia. Rozhodnutie o schválení byť ručiteľom vydané podľa doterajších predpisov stratí platnosť najneskôr 30. apríla 2017.
 >
 > (2) Ak bol colný dlh ku dňu uplatňovania nariadenia zabezpečený celkovou zárukou vo forme zloženia peňažných prostriedkov v hotovosti podľa doterajších predpisov, takáto záruka na colný dlh trvá aj po dni uplatňovania nariadenia, najdlhšie však do 30. apríla 2017, pričom § 54 ods. 4 sa nepoužije.
@@ -591,7 +591,7 @@ Ustanovenie upravuje rozsiahly súbor prechodných pravidiel viazaných na nadob
 
 ### § 92e
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenia k úpravám účinným od 1. januára 2018
 >
 > (1) Ručiteľský záväzok, ktorý vznikol schválením ručiteľského vyhlásenia na formulári podľa predpisov účinných do 31. decembra 2017, trvá aj po 31. decembri 2017, ak nedošlo k zrušeniu alebo vypovedaniu tohto ručiteľského vyhlásenia.
@@ -604,7 +604,7 @@ Ustanovenie upravuje prechodné pravidlá k novelizácii účinnej od 1. január
 
 ### § 92f
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenia k úpravám účinným od 1. augusta 2025
 >
 > (1) Na oznámenie sumy colného dlhu, ktorý vznikol pred 1. augustom 2025, sa použije § 53 ods. 4 v znení účinnom od 1. augusta 2025, ak pred 1. augustom 2025 neuplynula lehota na oznámenie sumy colného dlhu podľa § 53 ods. 4 v znení účinnom do 31. júla 2025.
@@ -615,7 +615,7 @@ Ustanovenie predstavuje najnovšie z prechodných ustanovení zákona, viazané 
 
 ### § 92g
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. januára 2026
 >
 > Ručiteľský záväzok, ktorý vznikol schválením ručiteľského vyhlásenia na formulári podľa predpisov účinných do 31. decembra 2025, trvá aj po 31. decembri 2025, ak nedošlo k zrušeniu alebo vypovedaniu tohto ručiteľského vyhlásenia, najdlhšie však do 31. decembra 2030.
@@ -624,7 +624,7 @@ Ustanovenie je obsahovo analogické k § 92e ods. 1, tentoraz vo vzťahu k novel
 
 ### § 93
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zrušovacie ustanovenia
 >
 > § 93
@@ -641,7 +641,7 @@ Ustanovenie obsahuje záverečné zrušovacie ustanovenia, ktorými sa s účinn
 
 ### § 93a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zrušuje sa § 268e zákona č. 200/1998 Z. z. o štátnej službe colníkov a o zmene a doplnení niektorých ďalších zákonov v znení zákona č. 258/2005 Z. z.
 
 Ustanovenie obsahuje samostatné, doplnkové zrušovacie ustanovenie, ktoré bolo do zákona vložené až dodatočnou novelizáciou (na rozdiel od pôvodného § 93, ktorý bol súčasťou zákona od jeho prijatia v roku 2004). Ruší konkrétne ustanovenie § 268e zákona č. 200/1998 Z. z. o štátnej službe colníkov, ktoré zjavne obsahovalo osobitnú, dočasnú alebo prechodnú úpravu súvisiacu so vzťahom medzi služobným zákonom colníkov a Colným zákonom, ktorej ponechanie v platnosti sa po príslušnej legislatívnej zmene stalo nadbytočným alebo kolíznym s aktuálnou právnou úpravou. Systematické zaradenie tohto ustanovenia na koniec zákona, hneď za pôvodné zrušovacie ustanovenia v § 93, zodpovedá bežnej legislatívnej technike, podľa ktorej sa dodatočné zrušenia súvisiacich ustanovení iných zákonov pripájajú k existujúcemu zrušovaciemu aparátu novelizovaného predpisu.
